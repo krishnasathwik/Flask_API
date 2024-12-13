@@ -1,0 +1,5 @@
+Flask
+Werkzeug
+pandas
+openpyxl  # Required for reading .xlsx files
+xlrd      # Required for reading .xls files
