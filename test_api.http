@@ -1,5 +1,0 @@
-POST http://127.0.0.1:5000/upload
-Content-Type: multipart/form-data
-
-file=/home/mannepalli/Downloads/Build_Course.xlsx
-
